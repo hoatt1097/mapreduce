@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fc8594c-a45b-433f-9b04-6263b4ff1216" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqCOuRqwbEPdlfShybETkI9YrF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CountGitRepoCommit" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CountGitRepoCommit" />
+      <module name="CountGitRepoCommit" />
+      <option name="PROGRAM_PARAMETERS" value="input ouput" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fc8594c-a45b-433f-9b04-6263b4ff1216" name="Default Changelist" comment="" />
+      <created>1583660708762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583660708762</updated>
+      <workItem from="1583660713051" duration="8529000" />
+      <workItem from="1583829207702" duration="1200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583661368024">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1583661368024" />
+    <state x="457" y="101" width="509" height="590" key="#xdebugger.XInspectDialog" timestamp="1583664136234">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="457" y="101" width="509" height="590" key="#xdebugger.XInspectDialog/67.27.1299.741@67.27.1299.741" timestamp="1583664136234" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1583683174900">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583683174900" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1583683174900">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583683174900" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1583683174899">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583683174899" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1583683174900">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583683174900" />
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1583683174893">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583683174893" />
+    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1583683174893">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1583683174893" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1583683174893">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1583683174893" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1583683174893">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1583683174893" />
+    <state width="649" height="371" key="XDebugger.FullValuePopup" timestamp="1583664139562">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="649" height="371" key="XDebugger.FullValuePopup/67.27.1299.741@67.27.1299.741" timestamp="1583664139562" />
+    <state x="370" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583663754160">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="370" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1583663754160" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="objectPayload.get(&quot;commits&quot;).getAsJsonArray().size()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
